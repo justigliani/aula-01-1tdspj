@@ -13,3 +13,6 @@ HTML
 CSS
 JavaScript
 - Git e GitHub
+
+🎯 Objetivo
+Meu objetivo é me tornar um desenvolvedor web e criar projetos incríveis no futuro
